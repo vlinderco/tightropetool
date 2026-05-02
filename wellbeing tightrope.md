@@ -16,7 +16,7 @@ The tightrope has evolved into a framework for anyone facing a number of pressur
 <small>The latest version was uploaded 25 February 24<small>
 
 # <small>Introduction and Coaching video: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FWuAuFYHFoo?si=BnwJi723gfuVZXwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DgvZjwzypXg?si=1nXbwWWIK-0-jFDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Emotional Freedom Technique (EFT)
 The Wellbeing version of the Tightrope includes Emotional Freedom Technique (EFT) practice. EFT was created by Gary Craig in the 1990s after working with Dr Roger Callahan, who created Thought Field Therapy. Gary describes EFT as a psychological version of accupuncture. 
@@ -34,6 +34,8 @@ This has been the magic wand for my wellbeing improvement journey!
 
 
 # <small> We are all on our own personal tightrope </small> 
+
+
 
 [download The Tightrope Framework]: /downloads/balancinglife.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
