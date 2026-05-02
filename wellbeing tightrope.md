@@ -32,6 +32,9 @@ You can create your own scripts based on any problem or pressure you are facing 
 
 This has been the magic wand for my wellbeing improvement journey!
 
+# <small>To learn more about the development of the tightrope and the supporting research see below: 
+<iframe width="560" height="315" src="[[https://www.youtube.com/embed/kQsYBatdOHU](https://www.youtube.com/watch?v=8uQgzKkkGQY)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # <small> We are all on our own personal tightrope </small> 
 
 [download The Tightrope Framework]: /downloads/balancinglife.pdf
