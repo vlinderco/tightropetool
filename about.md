@@ -18,6 +18,9 @@ Dr Evans discovered Emotional Freedom Technique (EFT), also known as 'tapping', 
 
 All products and materials are developed and delivered by Dr Evans, unless stated otherwise. 
 
+# <small>The below video talks through development of the tightrope and the supporting research: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [profile]: [http://robertaevans.com](https://www.linkedin.com/in/dr-roberta-evans/)
 
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
