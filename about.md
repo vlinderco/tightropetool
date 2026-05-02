@@ -8,7 +8,7 @@ banner-image: reflection.png
 
 The Tightrope Tool is the creation of [Dr Roberta Evans][profile], a qualified social worker with a Professional Doctorate in Youth Justice and over 25 years experience in practice, ranging from front-line social work in New Zealand and the UK, senior practitioner and manager, to practice development and training. 
 
-The idea of using the analogy of the tightrope in her work was first introduced by her mother, Marjan Lousberg, when discussing how to engage parents whose children were open to the Youth Justice Service. This led to the development of the [Circus Act], a workbook for parents of adolescents that starts with an analogy of the tightrope and trapeze artist, followed by various exercises based on the theme of circus acts.
+The idea of using the analogy of the tightrope in her work was first introduced by her mother, Marjan Lousberg, when discussing how to engage parents whose children were open to the Youth Justice Service. This led to the development of the Circus Act, a workbook for parents of adolescents that starts with an analogy of the tightrope and trapeze artist, followed by various exercises based on the theme of circus acts. A downloadable pdf version is available in the Adolescent Tightrope section. 
 
 Then Roberta undertook her doctorate on parenting interventions for crime prevention and increased her understanding of the array of factors associated with crime and desistance, which need to be considered in the context of how compounding factors can increase risk. This supported much of the research behind the Tightrope that was first used to train youth justice practitioners in risk assessment and later became a holistic tool for all adolescent risk. 
 
@@ -18,14 +18,12 @@ Dr Evans discovered Emotional Freedom Technique (EFT), also known as 'tapping', 
 
 All products and materials are developed and delivered by Dr Evans, unless stated otherwise. 
 
-# <small>The below video talks through development of the tightrope and the supporting research: 
-<iframe width="560" height="315" src="https://youtu.be/8uQgzKkkGQY?si=eGWZ4t2asupgDuZ9" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+# <small>The development of the tightrope and supporting research: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8uQgzKkkGQY?si=7IVokF02-vrdiIcC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
-[profile]: [http://robertaevans.com](https://www.linkedin.com/in/dr-roberta-evans/)
-
-[Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
+[profile]: [https://www.linkedin.com/in/dr-roberta-evans/]
 
 > "Life can be a bore if you're constantly walking sidewalks instead of a tightrope once in a while."
 > <small>Larry Wilcox</small>
