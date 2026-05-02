@@ -23,7 +23,7 @@ All products and materials are developed and delivered by Dr Evans, unless state
 
 
 
-[profile]: [https://www.linkedin.com/in/dr-roberta-evans/]
+[profile]: https://www.linkedin.com/in/dr-roberta-evans/
 
 > "Life can be a bore if you're constantly walking sidewalks instead of a tightrope once in a while."
 > <small>Larry Wilcox</small>
