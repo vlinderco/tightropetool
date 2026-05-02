@@ -56,14 +56,10 @@ The toolkit is drawn from research on adolescent risks (youth offending, self-ha
 
 The cards in the guidance workbook can be printed from the workbook or collectively from here so you can print off, cut out and laminate each card, or page of cards. There are also mats that have all the cards from each area together. 
 
-## Hardcopy toolkit
 
-If you or your team want the hardcopy toolkit with 8 sets of printed cards and two printed pads with the template form to complete, then a few sets are still available to purchase from [here].
+# Videos about the Tightrope
 
-
-# Extras
-
-## Tightrope doodle summary <small> - for young people</small>
+## Doodle summary <small> - for young people</small>
 
 <small>This video provides a summary of the Tightrope for young people</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kQsYBatdOHU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -75,12 +71,6 @@ When training workers on the tightrope and Adolescent Development, I will refer 
 
 The following video provides a more detailed doodle summary about adolescent development and how to respond using emotional development and transactional analysis theories in practice
 <iframe width="560" height="315" src="https://youtube.com/embed/MG5CC1xmEHQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-  
-## Out of court format
-  
-For Youth Justice practitioners an Out of Court Disposal template has been created and is available here: [OOCD Screening Template 2019.pdf]
 
 ## Workbook for parents
 
