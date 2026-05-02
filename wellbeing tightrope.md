@@ -37,7 +37,7 @@ This has been the magic wand for my wellbeing improvement journey!
 
 
 
-[download The Tightrope Framework]: /downloads/WellbeingTightrope.pdf
+[download The Wellbeing Tightrope Framework]: /downloads/WellbeingTightrope.pdf
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 [thetightropeframework.com]: https://thetightropeframework.com
 
