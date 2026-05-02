@@ -18,7 +18,7 @@ Dr Evans discovered Emotional Freedom Technique (EFT), also known as 'tapping', 
 
 All products and materials are developed and delivered by Dr Evans, unless stated otherwise. 
 
-[profile]: http://robertaevans.com
+[profile]: [http://robertaevans.com](https://www.linkedin.com/in/dr-roberta-evans/)
 
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 
