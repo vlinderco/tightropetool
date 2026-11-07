@@ -16,7 +16,7 @@ The tightrope has evolved into a framework for anyone facing a number of pressur
 <small>The latest version was uploaded 2 May 26<small>
 
 # <small>Introduction and Coaching video: 
-For a taster and introduction to the wellbeing tightrope and tapping, is an [introduction workbook] and video (below) that will quickly take you through each of the elements of the framework and has a 5 minute tapping session to support with next steps. 
+For an introduction to the wellbeing tightrope and EFT tapping, download this [introduction workbook] and watch the video below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DgvZjwzypXg?si=1nXbwWWIK-0-jFDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Emotional Freedom Technique (EFT)
