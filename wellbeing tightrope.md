@@ -12,7 +12,7 @@ The tightrope has evolved into a framework for anyone facing a number of pressur
 - you can explore your qualities and strengths and see patterns in the behaviours that are unhelpful
 - by utilising Emotional Freedom Technique (also known as 'tapping') you can clear limiting beliefs and create a space for healing  
 
-## Download full workbook for [The Wellbeing Tightrope Framework]
+## Download full workbook [The Wellbeing Tightrope]
 <small>The latest version was uploaded 2 May 26<small>
 
 # <small>Introduction and Coaching video: 
@@ -38,7 +38,7 @@ This has been the magic wand for my wellbeing improvement journey!
 
 
 
-[download The Wellbeing Tightrope Framework]: /downloads/WellbeingTightrope.pdf
+[The Wellbeing Tightrope]: /downloads/WellbeingTightrope.pdf
 [introduction workbook]: /downloads/balancinglife.pdf 
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 [thetightropeframework.com]: https://thetightropeframework.com
