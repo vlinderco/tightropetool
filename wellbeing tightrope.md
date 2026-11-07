@@ -18,7 +18,7 @@ The outcome of using this framework means ...
 Furthermore, by utilising Emotional Freedom Technique (also known as 'tapping') you can clear limiting beliefs and create a space for healing.  
 
 # <small>Introduction and Coaching video: 
-For an introduction to the wellbeing tightrope and EFT tapping, download this [introduction workbook] and watch the video below:
+For an introduction to the wellbeing tightrope and EFT tapping, download this [introduction workbook] and watch the video below. This includes a one-page printable worksheet that covers ALL the areas of the framework on one take-away page. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DgvZjwzypXg?si=1nXbwWWIK-0-jFDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # <small>Emotional Freedom Technique (EFT)
@@ -41,8 +41,9 @@ This has been the magic wand for my wellbeing improvement journey!
 <small>The latest version was uploaded 2 May 26<small>
 
 If you are ready to dive in deeper then this full course workbook provides the following:
-- reflective questions for each area of the framework
-- tapping scripts to support you to release overwhelm or tensions
+- more reflective questions for each area of the framework
+- exercises that support a balanced approach across your life, as a parent/carer, person, professional or partner
+- tapping scripts for each area of the framework to support you to release overwhelm or tensions
 
 Tips and scripts are also shared on instagram @the_tightrope_framework
 
