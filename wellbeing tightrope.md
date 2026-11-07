@@ -38,9 +38,9 @@ You can create your own scripts based on any problem or pressure you are facing 
 This has been the magic wand for my wellbeing improvement journey!
 
 # Full workbook 
+<small>The latest version was uploaded 2 May 26<small>
 
 # <small>Download [The Wellbeing Tightrope]
-<small>The latest version was uploaded 2 May 26<small>
 
 If you are ready to dive in deeper then this full course workbook provides the following:
 - more reflective questions for each area of the framework
@@ -49,7 +49,6 @@ If you are ready to dive in deeper then this full course workbook provides the f
 
 Tips and scripts are also shared on instagram 
 - [@the_tightrope_framework]
-- [@dr_roberta_evans]
 
 If you're interested in the development of the Tightrope Tool and to understand the research that supports the prompts and model, then visit the [About] page.  
 
@@ -62,7 +61,7 @@ If you're interested in the development of the Tightrope Tool and to understand 
 [introduction workbook]: /downloads/balancinglife.pdf 
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 [thetightropeframework.com]: https://thetightropeframework.com
-[About]: /https://www.tightropetool.com/about
+[About]: https://www.tightropetool.com/about
 [@the_tightrope_framework]: https://www.instagram.com/the_tightrope_framework?rpxt=ZXBoZzh6NWE3MHpl&utm_source=qr
 [@dr_roberta_evans]: https://www.instagram.com/dr_roberta_evans?obrf=a3N4Z2VhODZxajA5&utm_source=qr
 
