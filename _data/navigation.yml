@@ -13,11 +13,6 @@
   page: /wellbeing tightrope.html
   footer: true
 
-- title: Publications
-  url: /publications
-  page: /publications.html
-  footer: true
-
 - title: About
   url: /about
   page: /about.html
