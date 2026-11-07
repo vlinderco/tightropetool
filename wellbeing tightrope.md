@@ -47,7 +47,11 @@ If you are ready to dive in deeper then this full course workbook provides the f
 - exercises that support a balanced approach across your life, as a parent/carer, person, professional or partner
 - tapping scripts for each area of the framework to support you to release overwhelm or tensions
 
-Tips and scripts are also shared on instagram @the_tightrope_framework
+Tips and scripts are also shared on instagram 
+- [@the_tightrope_framework]
+- [@dr_roberta_evans]
+
+If you're interested in the development of the Tightrope Tool and to understand the research that supports the prompts and model, then visit the [About] page.  
 
 
 # <small> We are all on our own personal tightrope </small> 
@@ -58,6 +62,9 @@ Tips and scripts are also shared on instagram @the_tightrope_framework
 [introduction workbook]: /downloads/balancinglife.pdf 
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 [thetightropeframework.com]: https://thetightropeframework.com
+[About]: /https://www.tightropetool.com/about
+[@the_tightrope_framework]: https://www.instagram.com/the_tightrope_framework?rpxt=ZXBoZzh6NWE3MHpl&utm_source=qr
+[@dr_roberta_evans]: https://www.instagram.com/dr_roberta_evans?obrf=a3N4Z2VhODZxajA5&utm_source=qr
 
 > "A well developed sense of humour is the pole that adds balance to your steps as you walk the tightrope of life."
 > <small>William Arthur Ward</small>
