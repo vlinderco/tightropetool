@@ -16,6 +16,7 @@ The tightrope has evolved into a framework for anyone facing a number of pressur
 <small>The latest version was uploaded 2 May 26<small>
 
 # <small>Introduction and Coaching video: 
+For a taster and introduction to the wellbeing tightrope and tapping, is an [introduction workbook] and video (below) that will quickly take you through each of the elements of the framework and has a 5 minute tapping session to support with next steps. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DgvZjwzypXg?si=1nXbwWWIK-0-jFDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Emotional Freedom Technique (EFT)
@@ -26,7 +27,7 @@ EFT is also known as 'tapping' because it involves tapping with the finger tips 
 Tapping can calm anxiety and stress and can address a range of physical and emotional health concerns. 
 EFT is effective at addressing past traumas to support a journey toward recovery. 
 
-An EFT tapping script is included in the workbook, along with an image of where the tapping points are on the face and head. 
+An EFT tapping script is included for each chapter of the workbook, along with an image of where the tapping points are on the face and head. 
 
 You can create your own scripts based on any problem or pressure you are facing - keep tapping until you feel a shift or release.
 
@@ -38,6 +39,7 @@ This has been the magic wand for my wellbeing improvement journey!
 
 
 [download The Wellbeing Tightrope Framework]: /downloads/WellbeingTightrope.pdf
+[introduction workbook]: /downloads/balancinglife.pdf 
 [Circus Act]: /downloads/Circus%20Act%20-%202012.pdf
 [thetightropeframework.com]: https://thetightropeframework.com
 
