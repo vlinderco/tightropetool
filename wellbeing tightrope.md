@@ -4,7 +4,7 @@ layout: default
 banner-image: Reflection.jpeg
 ---
 
-# The Wellbeing Tightrope <small>For anyone Balancing on the Tightrope of Life</small>
+# The Wellbeing Tightrope <small>for anyone Balancing on the Tightrope of Life</small>
 
 The tightrope framework is for anyone facing a number of pressures and responsibilities. Or perhaps you have a goal or dream that requires a change process and this can create a "tightrope effect". 
 
