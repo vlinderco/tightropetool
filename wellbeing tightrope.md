@@ -4,7 +4,7 @@ layout: default
 banner-image: Reflection.jpeg
 ---
 
-# Wellbeing Tightrope <small>For anyone Balancing on the Tightrope of Life</small>
+# The Wellbeing Tightrope <small>For anyone Balancing on the Tightrope of Life</small>
 
 The tightrope framework is for anyone facing a number of pressures and responsibilities. Or perhaps you have a goal or dream that requires a change process and this can create a "tightrope effect". 
 
@@ -35,11 +35,16 @@ You can create your own scripts based on any problem or pressure you are facing 
 
 This has been the magic wand for my wellbeing improvement journey!
 
-## Download full workbook [The Wellbeing Tightrope]
+## Full workbook 
+
+# Download [The Wellbeing Tightrope]
 <small>The latest version was uploaded 2 May 26<small>
-**If you are ready to dive in deeper then this full course workbook provides the following
-- **reflective questions for each area of the framework
-- **tapping scripts to support you to release overwhelm or tensions
+
+If you are ready to dive in deeper then this full course workbook provides the following:
+- reflective questions for each area of the framework
+- tapping scripts to support you to release overwhelm or tensions
+
+Tips and scripts are also shared on instagram @the_tightrope_framework
 
 
 # <small> We are all on our own personal tightrope </small> 
